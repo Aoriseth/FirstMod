@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sbm",
+  "name": "Begin Mod",
+  "description": "The Beginning of a new era",
+  "version": "0.1",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Syntiskar"],
+  "credits": "Syntiskar + The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
